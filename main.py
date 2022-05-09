@@ -51,7 +51,7 @@ try:
     g=255
     b=0
     
-  if(col == 3):
+  elif(col == 3):
     r=76
     g=0
     b=153
